@@ -1,6 +1,6 @@
 # Hey! I'm Sam :wave:
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="280" />
+<img align="right" alt="GIF" src="https://github.com/Zyphaex/Zyphaex/blob/main/assets/img/coding.gif?raw=true" height="280" />
 
 I'm a `Computer Science` graduate from Nottingham Trent University, `Web Developer` and `Software Engineer` with experience overseeing tech-based startups.
 
@@ -28,5 +28,5 @@ Nice to meet you!
 
 <br>
 
-| ![Zyphaex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyphaex&show_icons=true&theme=tokyonight) | ![Zyphaex's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zyphaex&theme=tokyonight) |
+| ![Zyphaex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyphaex&show_icons=true&theme=tokyonight) | ![Zyphaex's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zyphaex&theme=tokyonight) |
 | --- | --- |
