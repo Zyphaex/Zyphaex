@@ -8,14 +8,14 @@ Specialised in `Front-End` and `Full-Stack` development.
 - Lives in Nottingham, United Kingdom 🇬🇧
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/samhillier/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Zyphaex/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/XfZHVfPr9C/)
+[![Sam's LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/samhillier/)
+[![Sam's Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Zyphaex/)
+[![Sam's Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/XfZHVfPr9C/)
 
 ## 💻 Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,py,java,html,css)](#)
 
 ## 🏆 GitHub Stats
 
-| ![Zyphaex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyphaex&show_icons=true&theme=tokyonight) | ![Zyphaex's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zyphaex&theme=tokyonight) |
+| ![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyphaex&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs,issues&include_all_commits=true&line_height=38) | ![Sam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zyphaex&theme=tokyonight&hide_border=true) |
 | --- | --- |
