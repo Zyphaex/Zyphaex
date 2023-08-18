@@ -2,10 +2,12 @@
 
 I'm a `Computer Science` graduate from Nottingham Trent University, `Web Developer` and `Software Engineer` with experience overseeing tech-based startups.
 
-Specialised in `Front-End` and `Full-Stack` development.
+If you're interested in working with me or have a question, please feel free to get in touch.
 
 - Check out my [portfolio website](https://hillier.uk/) ✍
 - Lives in Nottingham, United Kingdom 🇬🇧
+
+[![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Zyphaex)
 
 ## 🤝 Let's Connect
 [![Sam's LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/samhillier/)
