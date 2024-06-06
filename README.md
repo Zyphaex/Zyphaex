@@ -1,7 +1,6 @@
 # Hi, I'm Sam :wave:
 
-I'm a `Computer Science` graduate from Nottingham Trent University, a `Full-Stack Web Developer` and `Software Engineer` with a proven record of academic and project success. I seek to apply my skills and provide a collaborative approach to contribute towards organisational excellence in system health, scalability, and longevity.
-
+I'm a `Computer Science` graduate from Nottingham Trent University, a `Full-Stack` `Web Developer` and `Software Engineer` with a proven record of academic and project success.
 
 If you're interested in working with me or have a question, please feel free to get in touch.
 
